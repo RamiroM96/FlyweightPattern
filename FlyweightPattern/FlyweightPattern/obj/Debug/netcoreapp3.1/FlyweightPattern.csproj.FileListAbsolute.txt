@@ -1,0 +1,13 @@
+E:\visualStudio\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.exe
+E:\visualStudio\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.deps.json
+E:\visualStudio\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.runtimeconfig.json
+E:\visualStudio\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.runtimeconfig.dev.json
+E:\visualStudio\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.dll
+E:\visualStudio\FlyweightPattern\FlyweightPattern\bin\Debug\netcoreapp3.1\FlyweightPattern.pdb
+E:\visualStudio\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.csprojAssemblyReference.cache
+E:\visualStudio\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.AssemblyInfoInputs.cache
+E:\visualStudio\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.AssemblyInfo.cs
+E:\visualStudio\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.csproj.CoreCompileInputs.cache
+E:\visualStudio\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.dll
+E:\visualStudio\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.pdb
+E:\visualStudio\FlyweightPattern\FlyweightPattern\obj\Debug\netcoreapp3.1\FlyweightPattern.genruntimeconfig.cache
